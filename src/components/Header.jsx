@@ -6,7 +6,7 @@ import { motion } from "framer-motion"
 const Header = () => {
   return (
     <div id="Header" className=" min-h-screen mb-4 bg-cover bg-center flex
-     items-center w-full overflow-hidden" style={{backgroundImage: 'url(https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg)'}}>
+     items-center w-full overflow-hidden" style={{backgroundImage: 'url(https://www.realestate.com.au/news-image/w_1024,h_768/v1659753099/news-lifestyle-content-assets/wp-content/production/capi_0215064a1ec99b0c340af0f1f19bdd7b_c2ea8dea71293012311f4b1c261cd105.jpeg?_i=AA)'}}>
    <Navbar />
     <motion.div 
     initial={{opacity: 0, y:100}}
